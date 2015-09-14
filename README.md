@@ -20,3 +20,4 @@
          * mapview就相当于我们的tableView
 
 #效果图：
+![](https://github.com/mokey1422/gifResourceOther/blob/master/CustomAnnotation.png)
